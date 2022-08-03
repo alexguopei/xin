@@ -67,7 +67,7 @@ const canvas = createElementStyle("canvas");
 const introductionElement = createElementStyle(
   "div",
   `font-size:1.2em;position:absolute;text-align:center;transition:opacity 2s;width:250px`,
-  "Press and hold anywhere to stretch out a sugar cane, it has to be the exact length or Santa will fall down"
+  "鼠标长按屏幕伸长木板"
 );
 const perfectElement = createElementStyle(
   "div",
